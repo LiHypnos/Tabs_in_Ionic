@@ -1,0 +1,7 @@
+{
+  "name": "SecondTab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
